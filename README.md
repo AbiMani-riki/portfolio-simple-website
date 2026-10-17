@@ -47,6 +47,4 @@ Add a functional contact form.
 Include more pages and interactive features.
 Enhance accessibility and overall user experience.
 
-📄 License
-
 This project is available for learning and educational purposes.
